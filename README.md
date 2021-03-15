@@ -1,9 +1,9 @@
 ## US 123456 : As a developer I want to write a feature will search for the records based on some keywords and return the details about the user
   - Story Point: 1
   ### Tasks
-    - Create a json file which holds data about a user `(1 hr)`
-    - Develop a go program which will retrieve the user info `(2 hr)`
-    - Containerize  the app `(1hr)`
+    - Create a json file which holds data about a user (1 hr)
+    - Develop a go program which will retrieve the user info (2 hr)
+    - Containerize  the app (1hr)
 
   ### Acceptance Criteria:
     - When the docker image should be run it should return all the matching records
